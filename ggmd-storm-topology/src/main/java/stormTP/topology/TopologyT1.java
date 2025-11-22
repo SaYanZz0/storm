@@ -34,7 +34,7 @@ public class TopologyT1 {
         /*Création d'une configuration*/
         Config config = new Config();
         /*La topologie est soumise à STORM*/
-        StormSubmitter.submitTopology("topoT1", config, builder.createTopology());
+        StormSubmitter.submitTopology("topoT2", config, builder.createTopology());
 	}
 		
 	
