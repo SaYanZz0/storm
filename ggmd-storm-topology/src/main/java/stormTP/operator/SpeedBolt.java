@@ -116,3 +116,4 @@ public class SpeedBolt extends BaseWindowedBolt {
         declarer.declare(new Fields("id", "nom", "tops", "vitesse"));
     }
 }
+

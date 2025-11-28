@@ -80,3 +80,4 @@ public class NothingBolt implements IRichBolt {
 		this.collector = collector;
 	}
 }
+
